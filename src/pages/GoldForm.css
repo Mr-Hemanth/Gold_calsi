@@ -1,0 +1,47 @@
+.jewelry-form-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .jewelry-form-page-content {
+    width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .jewelry-form-page-content h1 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .jewelry-form-page-content p {
+    margin-bottom: 20px;
+  }
+  
+  .jewelry-form-page-content form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .jewelry-form-page-content form .MuiTextField-root {
+    margin-bottom: 15px;
+  }
+  
+  .jewelry-form-page-content form button {
+    align-self: center;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .jewelry-form-page-content form button:hover {
+    background-color: #0056b3;
+  }
+  

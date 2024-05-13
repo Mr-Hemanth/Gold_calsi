@@ -1,0 +1,35 @@
+/* Home.css */
+
+.Home {
+  text-align: center;
+}
+
+.company-ribbon {
+  background-color: #ffd700; /* Gold color */
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.edit-icon {
+  margin-bottom: 20px;
+}
+
+.options-container {
+  display: flex;
+  justify-content: center;
+}
+
+.option {
+  margin: 0 10px;
+}
+
+.option h2 {
+  padding: 10px 20px;
+  border: 2px solid #000;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.option h2:hover {
+  background-color: #f0f0f0;
+}

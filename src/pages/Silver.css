@@ -1,0 +1,50 @@
+/* silver.css */
+
+.silver-form-page {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .silver-form-page-content {
+    max-width: 500px;
+    width: 100%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .silver-form-page-content h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .silver-form-page-content p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .silver-form-page-content .MuiTextField-root {
+    margin-bottom: 15px;
+  }
+  
+  .silver-form-page-content button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .silver-form-page-content button:hover {
+    background-color: #0056b3;
+  }
+  
